@@ -11,6 +11,7 @@ dependencies = [
 [project.scripts]
 kickoff = "poem1.main:kickoff"
 plot = "poem1.main:plot"
+run_crew = "poem1.main:kickoff"
 
 [build-system]
 requires = ["hatchling"]
